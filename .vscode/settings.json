@@ -1,0 +1,8 @@
+{
+    "java.home": "C:\\Program Files\\Eclipse Foundation\\jdk-17.0.0.35-hotspot",
+    "java.project.sourcePaths": [
+        "src/leetcodejs",
+        "src/java",
+        "src\\leetcodejava"
+    ],
+}
